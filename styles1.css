@@ -4,9 +4,29 @@ h1{
 
 body{
 	
-	background-color:#fffff9 ;
+	background-color:#f6ced6;
 }
 
 p{
 	color: #000000 ;
 }
+
+ul{
+	list-style-type: none;
+	background-color: #b84c65;
+	overflow: hidden;
+
+li a{
+	float: left ;
+	display: block;
+	width: 100px;
+	text-align: center;
+	padding: 15px ;
+	text-decoration: none;
+	color: #000000;
+
+}
+li a:hover{
+	background-color:#efa0af;
+}
+

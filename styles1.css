@@ -34,5 +34,13 @@ li a{
 }
 li a:hover{
 	background-color:#efa0af;
-}
 
+.hover-image-box {
+
+  background-image: url('joacob.jpg');
+
+ }
+ .hover-image-box:hover {
+
+  background-image: url('kissingbooth_.jpg');
+} 

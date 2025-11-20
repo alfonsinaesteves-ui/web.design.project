@@ -1,0 +1,65 @@
+
+h1{
+	color: #368fff;
+}
+
+body{
+	background-color: #dbebff;
+}
+
+p{
+	color:#0d0d0d ;
+}
+
+.yellowParagraph{
+	color:#368fff;
+}
+
+table, td{
+	border-style: dotted;
+}
+table{ 
+	border-width: 4px; 
+	border-color: #368fff;
+	margin-left: auto;
+	margin-right: auto;
+}
+td{
+	border-width: 2px ;
+}
+body{
+	background-image: url(cimarronas.jpg);
+	background-size:150px ;
+	background-repeat: repeat-y ;
+	background-position: right ; 
+
+}
+img{
+	border-radius: 25px;
+}
+img:hover{
+	opacity: 0.75;
+}
+
+ul{
+	list-style-type: none;
+	background-color: #368fff;
+	overflow: hidden;
+
+}
+li a{
+	float: left ;
+	display: block;
+	width: 100px;
+	text-align: center;
+	padding: 15px ;
+	text-decoration: none;
+	color: ;
+
+}
+li a:hover{
+	background-color: #dbebff;
+}
+.active{
+	border-bottom: 2px solid #000;
+}
